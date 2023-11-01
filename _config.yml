@@ -1,20 +1,18 @@
-title: <p align="center"> Kiran Dalmiya </p>
+title:<p align="center"> Kiran Dalmiya </p>
 logo: /assets/img/logo.png
 
 description:
   <p align="center">
-  <a href="pdf/resume.pdf">Resume</a> |
   <a href="https://www.linkedin.com/in/kiran-dalmiya-3a417821b/">LinkedIn</a> |
   <a href="https://github.com/kirandalmiya">GitHub</a>
   
   <br>   
-  I am Pursuring MS in ML and AI
+    I am Pursuring MS in ML and AI
   Worked as an Assistant Professor for 6 Years.
   SET Qualified
   M.Sc. in CS (2007)
   <br>
   </p>
-
 
 
 theme: jekyll-theme-minimal
